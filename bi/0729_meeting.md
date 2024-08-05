@@ -17,7 +17,3 @@ Communication:
 Next week: 5/8 Monday morning meeting will be change to afternoon 2:00pm HK Time
 
 
-## Questions
-What Projects should the intern focus on next week?
-
-What is one thing the intern can do next week to improve?
